@@ -3043,7 +3043,7 @@ let Map_counter = 0
 let Retning = 0
 let mySprite: Sprite = null
 let pause2 = false
-game.showLongText("Velkommen CO2-sheriff", DialogLayout.Bottom)
+game.showLongText("Velkommen CO2-sherif", DialogLayout.Bottom)
 game.showLongText("Drivhusgasserne er løbet løbsk, og det er op til dig at redde verden", DialogLayout.Bottom)
 game.showLongText("Du kan skyde på \"z\" og \"x\"", DialogLayout.Bottom)
 let Remover: number[] = []
