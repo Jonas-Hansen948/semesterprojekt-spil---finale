@@ -1,0 +1,54 @@
+{
+    "name": "Semesterprojekt spil - finale",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.57",
+        "tag": "v1.12.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/50c17cec0d73d32911acd1633e6ce81b85ed2c3a",
+        "target": "1.12.57",
+        "pxt": "8.5.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#1F0E1C",
+        "#d26471",
+        "#FFFFFF",
+        "#CC895F",
+        "#c0c741",
+        "#647d34",
+        "#34859d",
+        "#D5C485",
+        "#7ec4c1",
+        "#707070",
+        "#8c8fae",
+        "#454545",
+        "#9B725D",
+        "#60483B",
+        "#F5EDBA"
+    ]
+}
